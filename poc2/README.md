@@ -1,0 +1,5 @@
+# 1. Use o DevContainer.
+
+# 2. HABILITE O PLUGIN NO CHROME
+
+# 3. DIVIRTA-SE
