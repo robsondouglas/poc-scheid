@@ -2,7 +2,7 @@
     "name": "PoC",
     "image": "ghcr.io/cirruslabs/flutter:stable",
     "workspaceFolder": "/workspaces/Scheid/poc2",
-    "postCreateCommand": "flutter pub get",
+    "postCreateCommand": "/bin/sh ../.devcontainer/install.sh",    
     "customizations": {
         "vscode": {
             "extensions": [
